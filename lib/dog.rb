@@ -3,5 +3,4 @@ class Dog
     @name=names
     @breed=breed
   end
-  def breed
 end
